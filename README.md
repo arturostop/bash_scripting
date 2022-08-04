@@ -1,5 +1,1 @@
-# bash_scripting
-# bash_scripting
-# bash_scripting
-# bash_scripting
-# bash_scripting
+Learning about Bash Scripting on Ubuntu Server
