@@ -1,0 +1,84 @@
+{
+  "id": 2,
+  "employee_name": "Garrett Winters",
+  "employee_salary": 170750,
+  "employee_age": 63,
+  "profile_image": ""
+}
+{
+  "id": 4,
+  "employee_name": "Cedric Kelly",
+  "employee_salary": 433060,
+  "employee_age": 22,
+  "profile_image": ""
+}
+{
+  "id": 6,
+  "employee_name": "Brielle Williamson",
+  "employee_salary": 372000,
+  "employee_age": 61,
+  "profile_image": ""
+}
+{
+  "id": 8,
+  "employee_name": "Rhona Davidson",
+  "employee_salary": 327900,
+  "employee_age": 55,
+  "profile_image": ""
+}
+{
+  "id": 10,
+  "employee_name": "Sonya Frost",
+  "employee_salary": 103600,
+  "employee_age": 23,
+  "profile_image": ""
+}
+{
+  "id": 12,
+  "employee_name": "Quinn Flynn",
+  "employee_salary": 342000,
+  "employee_age": 22,
+  "profile_image": ""
+}
+{
+  "id": 14,
+  "employee_name": "Haley Kennedy",
+  "employee_salary": 313500,
+  "employee_age": 43,
+  "profile_image": ""
+}
+{
+  "id": 16,
+  "employee_name": "Michael Silva",
+  "employee_salary": 198500,
+  "employee_age": 66,
+  "profile_image": ""
+}
+{
+  "id": 18,
+  "employee_name": "Gloria Little",
+  "employee_salary": 237500,
+  "employee_age": 59,
+  "profile_image": ""
+}
+{
+  "id": 20,
+  "employee_name": "Dai Rios",
+  "employee_salary": 217500,
+  "employee_age": 35,
+  "profile_image": ""
+}
+{
+  "id": 22,
+  "employee_name": "Yuri Berry",
+  "employee_salary": 675000,
+  "employee_age": 40,
+  "profile_image": ""
+}
+{
+  "id": 24,
+  "employee_name": "Doris Wilder",
+  "employee_salary": 85600,
+  "employee_age": 23,
+  "profile_image": ""
+}
