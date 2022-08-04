@@ -1,1 +1,1 @@
-Learning about Bash Scripting on Ubuntu Server
+Learning about Bash Scripting in Ubuntu Server
