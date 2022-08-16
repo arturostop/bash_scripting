@@ -13,9 +13,9 @@ Execute employees.sh file by using bash command
 
 It will create the following text files
 
-1.- Write the original json file of the provided url in "original_file.json"
+1.- Write the original json file of the given url in "original_file.json"
 
-2.- Then from the same url and with jq, filter the top employee salary greater than 300000 in "higher_salaries.txt"
+2.- Then from the same url and with jq, filters the top employee salary, greater than 300000 in "higher_salaries.txt"
 
 3.- Using "original_file.json" write "even_ids.txt" with the even ID employees
 
